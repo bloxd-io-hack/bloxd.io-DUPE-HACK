@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      0.1
 // @description  Duplicates items in Bloxd.io
-// @author       bloxd-io-hack
+// @author       bloxd-io-hack on github
 // @match        https://bloxd.io/*
 // @grant        none
 // ==/UserScript==
