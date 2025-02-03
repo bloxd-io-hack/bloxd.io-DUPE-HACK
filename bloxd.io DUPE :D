@@ -2,8 +2,8 @@
 // @name         Bloxd.io Item Duplicator
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Duplicates items in Bloxd.io (if allowed by the devs)
-// @author       You
+// @description  Duplicates items in Bloxd.io
+// @author       bloxd-io-hack
 // @match        https://bloxd.io/*
 // @grant        none
 // ==/UserScript==
